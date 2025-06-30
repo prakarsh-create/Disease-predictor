@@ -2,8 +2,7 @@
 
 A Machine Learning web app that predicts possible diseases based on user-selected symptoms using **Scikit-learn** and **Streamlit**.
 
-🔗 **Live Demo**: [Click to try the app](https://your-app-name.streamlit.app)  
-*(Replace with your actual Streamlit link)*
+
 
 ---
 
